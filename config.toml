@@ -2,7 +2,7 @@ baseURL = "www.tincnc.com"
 languageCode = "en-us"
 title = "TINCNC.com"
 themesDir = "themes"
-theme = "hero"
+theme = "hugo-hero-theme"
 staticDir = ["static", "static2"]
 
 [params]
