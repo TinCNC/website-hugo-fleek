@@ -1,6 +1,6 @@
-baseURL = "www.example.com"
+baseURL = "www.tincnc.com"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "TINCNC.com"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 staticDir = ["static", "static2"]

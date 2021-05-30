@@ -1,9 +1,9 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
+email: 'longphung@tincnc.com'
+phone: '+84 933 207 143'
+businessName: 'TinCNC'
 address: |
-  123 Some Street
-  City, State 12345
+  Số 49 đường 22, Phước Long B, 
+  Quận 9, Saigon 70000
 hours:
   - day: Monday
     open: 8:30am

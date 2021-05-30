@@ -1,12 +1,12 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
-        "image": "social/github.svg"
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/tincnc/",
+        "image": "social/linkedin.png"
     },
     {
-        "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
-        "image": "social/twitter.svg"
+        "name": "Facebook",
+        "link": "https://www.facebook.com/tinCNC",
+        "image": "social/facebook.png"
     }
 ]
