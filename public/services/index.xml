@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on TINCNC.com</title>
+    <link>www.tincnc.com/services/</link>
+    <description>Recent content in Services on TINCNC.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="www.tincnc.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THIẾT KẾ 3D</title>
+      <link>www.tincnc.com/services/thietke3d/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>www.tincnc.com/services/thietke3d/</guid>
+      <description>Inventor CREO Solid Edge NX SolidWorks CATIA </description>
+    </item>
+    
+    <item>
+      <title>Bảo trì</title>
+      <link>www.tincnc.com/services/baotri/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>www.tincnc.com/services/baotri/</guid>
+      <description>1. Sữa chữa máy móc, thiết bị. 2. Kiểm định mẫu, chi tiết máy. 3. Giám sát, kiểm tra chất lượng. </description>
+    </item>
+    
+    <item>
+      <title>GIA CÔNG CNC</title>
+      <link>www.tincnc.com/services/giacong/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>www.tincnc.com/services/giacong/</guid>
+      <description>Tiện Phay EDM Laser Gia công cơ Nhiệt luyện. </description>
+    </item>
+    
+    <item>
+      <title>Lập trình CAM</title>
+      <link>www.tincnc.com/services/cam/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>www.tincnc.com/services/cam/</guid>
+      <description>1.Thiết kế 2D : Autocard 2.Lập trình CAM: MasterCam, SolidCam, Cimcoedit, Powermill </description>
+    </item>
+    
+  </channel>
+</rss>
