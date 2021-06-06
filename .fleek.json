@@ -1,0 +1,11 @@
+{
+    "build": {
+      "image": "node:alpine",
+      "command": "hugo --minify && echo $SOME_ENV",
+      "publicDir": "build",
+      "baseDir": "frontend",
+      "environment": {
+        "SOME_ENV": "Build finished!"
+      }
+    }
+   }
