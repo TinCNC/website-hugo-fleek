@@ -1,0 +1,11 @@
+{
+    "build": {
+      "image": "fleek/hugo",
+      "command": "yarn && hugo --minify",
+      "publicDir": "public",
+      "baseDir": "./",
+      "environment": {
+        "SOME_ENV": "Build finished!"
+      }
+    }
+   }

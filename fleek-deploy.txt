@@ -1,0 +1,24 @@
+name: Deploy on Fleek.com
+
+on: [push]
+
+jobs:
+  test-deploy:
+    runs-on: ubuntu-latest
+    name: A job to test the action-deploy action by deploying a test site
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update theme
+        # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
+        run: git submodule update --init --recursive
+      # - name: Setup hugo
+      #   uses: peaceiris/actions-hugo@v2
+      #   with:
+      #     hugo-version: "0.83.1"
+      - name: Deploy test site
+        id: deploy
+        uses: fleekhq/action-deploy@v1
+        with:
+          apiKey: ${{ secrets.FLEEK_API_KEY }}
+      - name: Get the output url
+        run: echo "Deploy url is ${{ steps.deploy.outputs.deployUrl }}"
