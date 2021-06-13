@@ -1,6 +1,6 @@
 ---
 title: "We built machine parts at best factories -Chúng tôi chế tạo các bộ phận máy tại các nhà máy tốt nhất"
-weight: 1
+weight: 3
 background: "services/service.jpg"
 button: "Our Work"
 buttonLink: "work"
