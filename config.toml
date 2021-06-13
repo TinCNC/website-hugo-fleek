@@ -4,6 +4,21 @@ title = "TINCNC.com"
 themesDir = "./themes"
 theme = "hugo-hero-theme"
 staticDir = ["static", "static2"]
+disableLanguageSwitchingButton = false
+
+[languages]
+  # Each language has its own menu.
+  [languages.vn]
+    languageCode        = "vn"
+    LanguageName        = "Tiếng Việt"
+    weight              = 1
+    title = "TINCNC"
+    [languages.vn.params]
+      about-us = ""
+  [languages.en]
+    languageCode        = "en"
+    LanguageName        = "English"
+    weight              = 2
 
 [params]
   google_analytics_id=""
