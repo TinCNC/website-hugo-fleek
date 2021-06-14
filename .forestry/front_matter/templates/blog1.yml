@@ -23,3 +23,5 @@ fields:
 - type: file
   name: heroBackground
   label: heroBackground
+pages:
+- content/work/thong-tin-thanh-kep-binh.md
