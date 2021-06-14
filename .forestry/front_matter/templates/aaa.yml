@@ -1,0 +1,22 @@
+---
+label: AAA
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: number
+  name: weight
+  label: weight
+- type: file
+  name: background
+  label: background
+- type: text
+  name: align
+  label: align
+- type: text
+  name: height
+  label: height
