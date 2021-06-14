@@ -5,7 +5,7 @@ featured = false
 heroBackground = ""
 heroHeading = "Vật liệu: Nhôm 6061."
 heroSubHeading = "Chi tiết chịu nhiệt độ 600oC và độ bền cao 10.000 giờ làm việc."
-icon = ""
+icon = "/uploads/aaa.jpg"
 title = "Thong tin thanh kep bình"
 
 +++
@@ -25,4 +25,6 @@ Kích thước dung sai 0.02mm.
 
 Đảm bảo kích thước bản vẽ
 
-Đảm bảo thời hạn giao hàng 3 ngày![](/uploads/manh-ghep.jpg)
+Đảm bảo thời hạn giao hàng 3 ngày
+
+![](/uploads/aaa.jpg)
