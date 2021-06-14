@@ -3,10 +3,10 @@ date = ""
 draft = true
 featured = false
 heroBackground = ""
-heroHeading = "Vật liệu: Nhôm 6061."
+heroHeading = "Thanh kep bình: Nhôm 6061."
 heroSubHeading = "Chi tiết chịu nhiệt độ 600oC và độ bền cao 10.000 giờ làm việc."
 icon = "/uploads/aaa.jpg"
-title = "Thong tin thanh kep bình"
+title = "Thanh kep bình"
 
 +++
 Công dụng: Làm kẹp bình trộn trên máy.
