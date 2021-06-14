@@ -5,6 +5,9 @@ date = ""
 height = ""
 title = "THIẾT KẾ 3D 222"
 weight = 2
+[menu.main]
+name = "DOI TAC"
+weight = 6
 
 +++
 ASERDTFYGUBNIJINNGVYCVYGBHUH
