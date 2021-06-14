@@ -25,4 +25,4 @@ Kích thước dung sai 0.02mm.
 
 Đảm bảo kích thước bản vẽ
 
-Đảm bảo thời hạn giao hàng 3 ngày
+Đảm bảo thời hạn giao hàng 3 ngày![](/uploads/manh-ghep.jpg)
