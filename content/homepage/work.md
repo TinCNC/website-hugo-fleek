@@ -1,11 +1,12 @@
 ---
-title: "We built machine parts at best factories -Chúng tôi chế tạo các bộ phận máy tại các nhà máy tốt nhất"
-weight: 1
-background: "services/service.jpg"
-button: "Our Work"
-buttonLink: "work"
----
+title: We built machine parts at best factories -Chúng tôi chế tạo các bộ phận máy
+  tại các nhà máy tốt nhất
+weight: "1"
+background: services/service.jpg
+button: Our Work
+buttonLink: work
 
+---
 ## Liên kết hơn 500 xưởng thuộc nhiều lĩnh vực chế tạo máy
 
 ## Chế tạo dây chuyền, hệ thống tự động
@@ -14,7 +15,7 @@ buttonLink: "work"
 
 ### 1.Bạn chỉ phải trả tiền cho đơn đặt hàng khi nó đã được hoàn thành và bạn hài lòng 100%
 
-### 2.Bạn sẽ nhận được báo giá miễn phí từ các xưởng tốt của chúng tôi trong vòng vàiphút
+### 2.Bạn sẽ nhận được báo giá miễn phí từ các xưởng tốt của chúng tôi trong vòng vài phút
 
 ### 3.Chúng tôi luôn ở đây để giúp đỡ. Hỗ trợ của chúng tôi 24/7
 
