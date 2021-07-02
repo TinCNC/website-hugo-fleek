@@ -6,7 +6,6 @@ theme = "hugo-hero-theme"
 staticDir = ["static", "static2"]
 disableLanguageSwitchingButton = false
 
-
 [params]
   google_analytics_id=""
 
